@@ -14,6 +14,12 @@ Se desarrolló una solución basada en tecnologías modernas, utilizando control
 ### Arquitectura
 El sistema sigue una arquitectura cliente-servidor, donde el usuario interactúa mediante un navegador, el servidor procesa la lógica y la base de datos almacena la información.
 
+## Acceso al producto
+
+El sistema se encuentra disponible en el repositorio GitHub:
+
+https://github.com/freddyolague-cpu/proyecto-fase3-ejecucion
+
 ---
 
 ## Tabla de Contenidos
