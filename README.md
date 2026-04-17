@@ -38,6 +38,9 @@ El sistema sigue una arquitectura cliente-servidor, donde el usuario interactúa
 - Java JDK 11
 - Git
 - Navegador web
+<img width="796" height="215" alt="image" src="https://github.com/user-attachments/assets/357c56a5-98fd-4c1d-ac08-0d468b1bd65d" />
+
+
 
 ### Dependencias
 - JUnit (para pruebas)
