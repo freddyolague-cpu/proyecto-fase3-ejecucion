@@ -59,3 +59,14 @@ https://github.com/freddyolague-cpu/proyecto-fase3-ejecucion
 ### 1. Clonar repositorio
 ```bash
 git clone https://github.com/TU-USUARIO/TU-REPO.git
+
+## Contribución
+
+1. Clonar repositorio  
+2. Crear branch  
+3. Realizar cambios  
+4. Crear pull request  
+5. Esperar aprobación  
+
+## Video demostración
+my.sharepoint.com/:v:/g/personal/al05082057_tecmilenio_mx/IQBJGeRCQunISI8LZ033gi8lAY-l_o-32IyfW1q_pTBYv-M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a3KUz0
